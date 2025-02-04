@@ -32,7 +32,8 @@ const TodoList = () => {
         margin: "auto",
         backgroundColor: "#00000080",
         borderStyle: "solid",
-        borderColor: "skyblue",
+        borderColor: "#edc5ff",
+        borderWidth: 1.5,
         borderRadius: 10,
       }}
     >
